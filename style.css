@@ -1,0 +1,14 @@
+#camera{
+    box-shadow: 5px 10px 18px aquamarine;
+    height: 250;
+    width: 360;
+}
+canvas{
+    box-shadow:5px 14px 14px rgb(189, 219, 14) ;
+    border: 10px dotted blue;
+    position: 0,150;
+
+    
+}
+
+ 
